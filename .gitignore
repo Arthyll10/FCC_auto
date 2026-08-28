@@ -1,0 +1,7 @@
+user_data/
+*.png
+__pycache__/
+venv/
+.venv/
+.vscode/
+.idea/
